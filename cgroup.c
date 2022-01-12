@@ -19,7 +19,7 @@
  *  2003-10-10 Written by Simon Derr.
  *  2003-10-22 Updates by Stephen Hemminger.
  *  2004 May-July Rework by Paul Jackson.
- *  2022-01-11 Updates by IS VB
+ *  2022-01-11 Updates by Israel VB
  *  ---------------------------------------------------
  *
  *  This file is subject to the terms and conditions of the GNU General Public
